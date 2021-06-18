@@ -1,6 +1,6 @@
 
 
-#EXTM3U x-tvg-url=https://tinyurl.com/unifaiepg2
+#EXTM3U
 
 #EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 SD
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
